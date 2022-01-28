@@ -18,7 +18,8 @@ Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" hr
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=333333)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![PHP]
+![PHP](https://img.shields.io/badge/-PHP-CC6699?style=for-the-badge&logo=php&logoColor=ffffff)
+
 ### 🧰 Ferramentas
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
