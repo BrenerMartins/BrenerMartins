@@ -18,25 +18,24 @@ Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" hr
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=333333)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-CC6699?style=for-the-badge&logo=php&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
 
 ### 🧰 Ferramentas
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 ![Sublime](https://img.shields.io/badge/-Sublime-FF9800?style=for-the-badge&logo=sublimetext&logoColor=ffffff)
 ![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Carteiro](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
 
 ### 💌 Canais para contato
 
 <div>
-  <a target="_blank" href="https://mail.google.com/mail/u/?authuser=carineorto@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=ff7000" /></a>
+  <a target="_blank" href="https://mail.google.com/mail/u/?authuser=brener_henrique@outlook.com" alt="outlook">
+  <img src="https://img.shields.io/badge/-Outlook-1C1C1C?style=for-the-badge&logo=outlook&logoColor=00BFA6" /></a>
 
-  <a target="_blank" href="https://www.linkedin.com/in/carine-ortolani-9615ab148/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=ff7000&link=https://www.linkedin.com/in/carine-ortolani- 9615ab148/" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/brener-martins-1a605b1b7/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00BFA6&link=https://www.linkedin.com/in/brener-martins- 9615ab148/" /></a>
 
-  <a target="_blank" href="https://www.instagram.com/carineortolani/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=ff7000&link=https://www.instagram.com/carineortolani/" />< /a>
+  <a target="_blank" href="https://www.instagram.com/ brener_furtado/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00BFA6&link=https://www.instagram.com/brener_furtado/" /></a>
 </div>
