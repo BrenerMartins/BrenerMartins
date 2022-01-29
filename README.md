@@ -6,7 +6,7 @@ Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" hr
 
 <br>
 
-<div aling="center"> 
+<div align="center"> 
   <img width="400px" alt="boy programming" src="https://github.com/BrenerMartins/BrenerMartins/blob/main/assets/boycode.svg" />
 </div>
 
@@ -14,9 +14,9 @@ Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" hr
 
 ### 📈 Estatísticas do GitHub
 
-<div>
-  <img height="155em" alt="Estatísticas do GitHub do Brener" src="https://github-readme-stats.vercel.app/api?username=BrenerMartins&show_icons=true&theme=dark&bg_color=161b22&title_color=00BFA6&icon_color=8985A8&text_color=fff" / >
-  <img height="158em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenerMartins&show_icons=true&theme=dark&bg_color=161b22&title_color=00BFA6&text_color=fff&icon_color= 8985A8&layout=compacto" />
+<div align="center">
+  <img height="188em" alt="Estatísticas do GitHub do Brener" src="https://github-readme-stats.vercel.app/api?username=BrenerMartins&show_icons=true&theme=dark&bg_color=161b22&title_color=00BFA6&icon_color=8985A8&text_color=fff" />
+  <img height="188em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenerMartins&show_icons=true&theme=dark&bg_color=161b22&title_color=00BFA6&text_color=fff&icon_color= 8985A8&layout=compacto" />
 </div>
 
 ### 💻 Tecnologias
@@ -45,6 +45,9 @@ Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" hr
 
   <a target="_blank" href="https://www.instagram.com/brener_furtado/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00BFA6&link=https://www.instagram.com/brener_furtado/" /></a>
+
+   ![ Animação de cobra ](https://github.com/BrenerMartins/BrenerMartins/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
 
 
