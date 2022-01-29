@@ -30,12 +30,15 @@ Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" hr
 ### 💌 Canais para contato
 
 <div>
-  <a target="_blank" href="https://mail.google.com/mail/u/?authuser=brener_henrique@outlook.com" alt="outlook">
+  <a target="_blank" href="https://outlook.google.com/mail/u/?authuser=brener_henrique@outlook.com" alt="outlook">
   <img src="https://img.shields.io/badge/-Outlook-1C1C1C?style=for-the-badge&logo=MicrosoftOutlook&logoColor=00BFA6" /></a>
 
   <a target="_blank" href="https://www.linkedin.com/in/brener-martins-1a605b1b7/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00BFA6&link=https://www.linkedin.com/in/brener-martins- 9615ab148/" /></a>
 
-  <a target="_blank" href="https://www.instagram.com/ brener_furtado/" alt="Instagram">
+  <a target="_blank" href="https://www.instagram.com/brener_furtado/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00BFA6&link=https://www.instagram.com/brener_furtado/" /></a>
 </div>
+
+
+
