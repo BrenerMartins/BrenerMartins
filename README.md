@@ -2,9 +2,13 @@
 
 <br>
 
-Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" href="https://www.jauserve.com.br/on/demandware.store/Sites-JauServe-Site/pt_BR/Default-Start?gclid=EAIaIQobChMIu5-wvInV9QIVDYiGCh3y6AVZEAAYASAAEgIQe_D_BwE"/>Jaú Serve</a> e <br> Estou cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na <a target="_blank" href="https://www.anhanguera.com/cursos/">Anhanguera</a>.
-<img align="right" marginTop="40px" width="400px" alt="boy programming" src="https://github.com/BrenerMartins/BrenerMartins/blob/main/assets/boycode.svg" />
-  
+<div>
+  Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" href="https://www.jauserve.com.br/on/demandware.store/Sites-JauServe-Site/pt_BR/Default-Start?gclid=EAIaIQobChMIu5-wvInV9QIVDYiGCh3y6AVZEAAYASAAEgIQe_D_BwE"/>Jaú Serve</a> e <br> Estou cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na <a target="_blank" href="https://www.anhanguera.com/cursos/">Anhanguera</a>.
+  <img align="right" marginTop="40px" width="400px" alt="boy programming" src="https://github.com/BrenerMartins/BrenerMartins/blob/main/assets/boycode.svg" />
+</div>
+
+<br>
+
 ### 📈 Estatísticas do GitHub
 
 <div>
