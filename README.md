@@ -3,7 +3,7 @@
 <br>
 
 Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" href="https://www.jauserve.com.br/on/demandware.store/Sites-JauServe-Site/pt_BR/Default-Start?gclid=EAIaIQobChMIu5-wvInV9QIVDYiGCh3y6AVZEAAYASAAEgIQe_D_BwE"/>Jaú Serve</a> e <br> Estou cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na <a target="_blank" href="https://www.anhanguera.com/cursos/">Anhanguera</a>.
-<img align="right" marginTop="40px" marginRight="35px" width="188px" alt="boy programming" src="https://github.com/BrenerMartins/BrenerMartins/blob/main/assets/boycode.svg" />
+<img align="right" marginTop="40px" width="400px" alt="boy programming" src="https://github.com/BrenerMartins/BrenerMartins/blob/main/assets/boycode.svg" />
   
 ### 📈 Estatísticas do GitHub
 
@@ -27,7 +27,7 @@ Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" hr
 ![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
 
-### 💌 Canais para contato
+### 📧 Canais para contato
 
 <div>
   <a target="_blank" href="https://outlook.live.com/mail/u/?authuser=brener_martins@outlook.com" alt="outlook">
