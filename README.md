@@ -2,7 +2,9 @@
 
 <br>
 
-Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" href="https://www.jauserve.com.br/on/demandware.store/Sites-JauServe-Site/pt_BR/Default-Start?gclid=EAIaIQobChMIu5-wvInV9QIVDYiGCh3y6AVZEAAYASAAEgIQe_D_BwE"/>Jaú Serve</a> e <br> Graduado em Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)  na <a target="_blank" href="https://www.anhanguera.com/cursos/">Anhanguera</a>. Mas não parei por aqui, atualmente estou cursando <a target="_blank" href="https://univesp.br"Univesp</a>. 
+Meu nome é Brener, atualmente estou trabalhando de TI no  <a target="_blank" href="https://www.jauserve.com.br/on/demandware.store/Sites-JauServe-Site/pt_BR/Default-Start?gclid=EAIaIQobChMIu5-wvInV9QIVDYiGCh3y6AVZEAAYASAAEgIQe_D_BwE"/>Jaú Serve.</a>
+
+<br> Sou Graduado em Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)  na <a target="_blank" href="https://www.anhanguera.com/cursos/">Anhanguera</a>. Atualmente estou cursando Engenharia de computação na <a target="_blank" href="https://univesp.br">Univesp</a>. 
 
 <br>
 
